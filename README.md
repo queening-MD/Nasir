@@ -1,6 +1,6 @@
 
 `Update On : 2025.07.12`
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=KALEEM-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻 KALEEM-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://github.com/kaleemjanmods103/-/blob/b5611dab21d1d54a64148ab668cd82a834f7331b/20250814_081922.jpg" width="300" height="150">
@@ -8,7 +8,7 @@
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+KALEEM+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Kaleem-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Kaleem-MD..."
